@@ -20,7 +20,7 @@ composer install
 Once the dependencies are installed, run the services:
 
 ```bash
-# Run zipkin:
+# Run jaeger:
 composer run-jaeger
 
 # Run frontend:
